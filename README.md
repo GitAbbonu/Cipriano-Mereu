@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cipriano Mereu</h1>
-<h3 align="center">👨‍💻 A passionate frontend developer from Italy</h3>
+<h3 align="center">👨‍💻 A passionate frontend developer from Sardinia</h3>
 
 Hi! I'm passionate about computer science and I like to stay constantly updated on the latest technological innovations. My biggest passion is front-end development, particularly the creation of engaging and intuitive user interfaces.
 
