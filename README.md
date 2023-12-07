@@ -3,7 +3,6 @@
 
 Hi! I'm passionate about computer science and I like to stay constantly updated on the latest technological innovations. My biggest passion is front-end development, particularly the creation of engaging and intuitive user interfaces.
 
-- 🌱 I’m currently learning **on Develhope**
 
 
 
